@@ -1,0 +1,19 @@
+{
+  "name": "route_vercal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   
+    "node":"node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@now/node": "^1.8.5",
+    "@vercel/node": "^5.1.14",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
